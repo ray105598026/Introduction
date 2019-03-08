@@ -1,4 +1,4 @@
-# <img src="./履歷照.jpg" width="150" hegiht="250" align=center /> 
+# <img src="履歷照.jpg" width="150" hegiht="250" align=center /> 
 ## 林 志 紘 Chih-Hung Lin
 ###  Education
 
