@@ -1,7 +1,7 @@
 # <img src="photo.jpg" width="150" hegiht="250" align=center /> 
 ## 林 志 紘 Chih-Hung Lin
 ###  Education
-![Image](photo.jpg)
+![Image](photo.jpg =150*250)
 
 | School | Major | Degree | Period |
 | :-: | :-: | :-: | :-: |
