@@ -1,9 +1,6 @@
-# <img src="photo.jpg" width="150" hegiht="250" align=center /> 
-<img width="150" height="150" src="https://img-blog.csdn.net/20161028230559575"/>
+<img width="175" height="250" src="photo.jpg"/>
 ## 林 志 紘 Chih-Hung Lin
 ###  Education
-![Image](photo.jpg =150*250)
-
 | School | Major | Degree | Period |
 | :-: | :-: | :-: | :-: |
 | [National Taipei University of Technology <br> 國立臺北科技大學(Taipei Tech)](https://www.ntut.edu.tw/bin/home.php) | Computer Science & Information Engineering | Master | 2016/09 - 2018/09 |
