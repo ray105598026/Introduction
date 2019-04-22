@@ -13,9 +13,6 @@
 
 ### Experience
 
-| School | Major | Degree | Period |
-| :-: | :-: | :-: | :-: |
-
 | Project | Programming Skills |
 | :-: | :-: | 
 |[基於視訊物件之適應性位元率轉碼(碩士論文)](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=2x5dD1/record?r1=1&h1=0)|C/C++ , OpenCV|
