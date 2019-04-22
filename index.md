@@ -17,7 +17,7 @@
 | :-: | :-: | 
 |[基於視訊物件之適應性位元率轉碼(碩士論文)](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=2x5dD1/record?r1=1&h1=0)|C/C++ , OpenCV|
 |雲端系統高效能調適性視訊轉碼與串流技術之研發|Video streaming, Cloud service, 需求規格書撰寫|
-|[搭配多元智慧載具並結合影像與聲音技術之聯網電視人性化互動介面)](https://gitlab.com/Lin-ray53211/tv)|Smart TV, Natural Human-Machine Interface, Git|
+|[搭配多元智慧載具並結合影像與聲音技術之聯網電視人性化互動介面](https://gitlab.com/Lin-ray53211/tv)|Smart TV, Natural Human-Machine Interface, Git|
 
 ### Skills & Interests
 * Languages:
