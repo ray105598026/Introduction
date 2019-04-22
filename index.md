@@ -1,6 +1,6 @@
 <img width="175" height="250" src="photo.jpg"/>
 
-## 林 志 紘 Chih-Hung Lin
+## 林 志 紘 Chih-Hung Lin 
 
 ###  Education
 
@@ -10,40 +10,21 @@
 | [National Kaohsiung University of Science and Technology <br> 國立高雄科技大學](https://www.nkust.edu.tw/index.php)| Department of Electronic Engineering | Bachelor | 2012/09 - 2016/06 |
 |[Taipei Municipal Songshan High School of Agriculture and Industry <br> 臺北市立松山高級工農職業學校](http://www.saihs.edu.tw/)| Computer Technology | Diploma | 2009/09 - 2012/06 |
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ray105598026/Introduction/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Experience
+| Project | Programming Skills |
+| :-: | :-: | 
+|[基於視訊物件之適應性位元率轉碼(碩士論文)](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=2x5dD1/record?r1=1&h1=0)|C/C++ , OpenCV|
+|雲端系統高效能調適性視訊轉碼與串流技術之研發|Video streaming, Cloud service, 需求規格書撰寫|
+|[搭配多元智慧載具並結合影像與聲音技術之聯網電視人性化互動介面)](https://gitlab.com/Lin-ray53211/tv)|Smart TV, Natural Human-Machine Interface, Git|
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ray105598026/Introduction/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Skills & Interests
+* Languages:
+  * Mandarin, English
+* Programming Skills:
+  * C, C++
+  * html, css, JavaScript, AngularJS, php
+  * OpenCV, HEVC(H.265)
+* Interests:
+  * Running
+  * Watching movies
