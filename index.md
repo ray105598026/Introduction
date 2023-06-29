@@ -19,7 +19,7 @@
 |聯力工業|
 |藍白航運|
 |揪吉麻將|
-|Skygram|
+|Skygram|<img width="200" height="150" src="Skygram.jpg"/>| 
 |Mycelium|
 
 ### Experience
