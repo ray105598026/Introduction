@@ -13,14 +13,14 @@
 ### Job Experience
 * 樹人科技有限公司  2019/6~ 2023/6
 
-| Project | |
+| Project | | 
 | :-: |:-: | 
-|電子遊戲平台|
-|聯力工業|
-|藍白航運|
-|揪吉麻將|
+|電子遊戲平台|<img width="200" height="150" src="BXCP.jpg"/>| 
+|聯力工業|<img width="200" height="150" src="聯立-圖.png"/>| 
+|藍白航運|<img width="200" height="150" src="Ship.jpg"/>| 
+|揪吉麻將|<img width="200" height="150" src="揪吉麻將-大廳.jpg"/> <img width="200" height="150" src="揪吉麻將-遊玩.jpg"/>| 
 |Skygram|<img width="200" height="150" src="Skygram.jpg"/>| 
-|Mycelium|
+|Mycelium|<img width="200" height="150" src="Mycelium-PC版VPN測試.jpg"/>| 
 
 ### Experience
 
