@@ -10,6 +10,17 @@
 | [National Kaohsiung University of Science and Technology <br> 國立高雄科技大學](https://www.nkust.edu.tw/index.php)| Department of Electronic Engineering | Bachelor | 2012/09 - 2016/06 |
 |[Taipei Municipal Songshan High School of Agriculture and Industry <br> 臺北市立松山高級工農職業學校](http://www.saihs.edu.tw/)| Computer Technology | Diploma | 2009/09 - 2012/06 |
 
+### Job Experience
+* 樹人科技有限公司  2019/6~ 2023/6
+
+| Project | |
+| :-: |:-: | 
+|電子遊戲平台|
+|聯力工業|
+|藍白航運|
+|揪吉麻將|
+|Skygram|
+|Mycelium|
 
 ### Experience
 
